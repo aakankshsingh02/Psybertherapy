@@ -20,7 +20,7 @@ The video calling solution also allows participants to customize their user inte
 
 2.CSS
 
-3.JS
+3.Javascript
 
 4.WebRTC
 
