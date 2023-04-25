@@ -2,15 +2,6 @@
 
 This repository provides a simple and easy-to-use video calling solution that can be integrated into any web application. The solution is built on top of WebRTC technology and provides real-time, high-quality video and audio communication between participants.
 
-## Installation
-
-To use the video calling functionality in your web application, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the dependencies by running the command ` install`.
-3. Start the server by running the command `start`.
-
-The video calling solution is now ready to use.
 
 ## Demo
 You can visit this application by clicking on
@@ -31,4 +22,6 @@ The video calling solution also allows participants to customize their user inte
 
 3.JS
 
+4.WebRTC
 
+5.Firebase
